@@ -7,6 +7,7 @@
 }
 #body{
 	margin: 0px;
+    
 }
 
 #module_1{
@@ -236,4 +237,27 @@ clear:none;
     padding-bottom: 5%;
 }
 
+/*about the module daily schedule*/
 
+#m7_daily{
+    
+    width: 100%;
+/*    height: 40%;*/
+    background-color: whitesmoke;
+    padding-bottom: 10%;
+/*    padding-top: 10%;*/
+}
+
+#m7_table{
+    display: table;
+    padding-top: 10%;
+}
+
+#m7_row_1{
+    display: table-row;
+}
+
+#m7_col_1{
+    display: table-cell;
+    padding-left: 18%;
+}
