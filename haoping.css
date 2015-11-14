@@ -2,6 +2,13 @@
     
     font-family:"black_jack";
     src: url("black_jack.ttf");
+    
+    font-family:"chinese_font_1";
+    src: url("chinese_font_1.ttf");
+    
+    font-family:"chinese_font_2";
+    src: url("chinese_font_2.otf");
+    
 
 
 }
@@ -20,6 +27,7 @@
 	padding: 0px;
 	border: none;
     float:left;
+     
 clear:none;  
 /*
     margin-bottom: 0px;
@@ -31,10 +39,10 @@ clear:none;
 }
 
 #fumu{
-	font-size: 70px;
-	padding-left: 27%;
+	font-size: 100px;
+	padding-left: 38%;
 	padding-top: 6%;
-	font-family: black_jack;
+	font-family: chinese_font_2;
 	color:black;
 }
 
@@ -227,7 +235,7 @@ clear:none;
     margin-top: 0px;
     padding-top: 0px;
     float:left;
-clear:none;  
+    clear:none;  
     width: 100%;
 }
 
@@ -235,6 +243,7 @@ clear:none;
     padding-left: 10%;
     padding-right: 10%;
     padding-bottom: 5%;
+    font-family: chinese_font_1;
 }
 
 /*about the module daily schedule*/
