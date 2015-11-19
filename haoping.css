@@ -38,6 +38,13 @@ clear:none;
 
 }
 
+#title
+{
+    display:  block;
+    padding-left:  30%;
+    padding-top: 4%;
+}
+
 #fumu{
 	font-size: 100px;
 	padding-left: 38%;
