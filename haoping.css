@@ -38,6 +38,12 @@ clear:none;
 
 }
 
+#schedule{
+    /*display: block;*/
+   /*marging-top: 20%;*/
+    /*position: static;*/
+}
+
 #title
 {
     display:  block;
@@ -261,7 +267,7 @@ clear:none;
 /*    height: 40%;*/
     background-color: whitesmoke;
     padding-bottom: 10%;
-/*    padding-top: 10%;*/
+    padding-top:30%;
 }
 
 #m7_table{
