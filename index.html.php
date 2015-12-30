@@ -260,14 +260,14 @@
         </div>
             
             
-			<form class="form-horizontal">
+			<!--<form class="form-horizontal">
     <fieldset>
       <div id="legend" class="">
-        <!-- <legend class="">表单名</legend> -->
+        
       </div>
     <div class="control-group">
 
-          <!-- Text input-->
+          
 
           <label class="control-label" for="input01">Name</label>
           <div class="controls">
@@ -276,7 +276,9 @@
           </div>
         </div>
 
-    <div class="control-group">
+    <div class="control-group">-->
+      
+      include 'fumu/xhp.php';
 
           <!-- Text input-->
           <label class="control-label" for="input01">Email Address</label>
