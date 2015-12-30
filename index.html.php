@@ -277,8 +277,9 @@
         </div>
 
     <div class="control-group">-->
-      
+      <?php 
       include 'fumu/xhp.php';
+      ?>
 
           <!-- Text input-->
           <label class="control-label" for="input01">Email Address</label>
